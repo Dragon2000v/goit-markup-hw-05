@@ -743,8 +743,7 @@ a {
   color: #4d5ae5;
 }
 
-.modal-submit-btn {
-  /* box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
+.modal-submit-btn {  
   background: #4d5ae5;
   margin: 0 auto;
   font-weight: 500;
